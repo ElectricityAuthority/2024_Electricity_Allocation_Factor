@@ -7,7 +7,7 @@ Note that this repository only contain the essential code and data to run the si
 
 The EA can provided these excluded data upon request.
 
-Interested psrties can repeat the simulation folowing these steps:
+Users can repeat the simulation folowing these steps:
 
 1. Download this repository to local computer.
 
